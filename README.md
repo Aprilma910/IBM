@@ -1,2 +1,2 @@
 # IBM
-IBM resources from xoursera
+IBM resources from coursera
